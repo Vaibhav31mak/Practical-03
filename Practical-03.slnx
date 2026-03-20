@@ -3,4 +3,5 @@
     <File Path=".gitignore" />
   </Folder>
   <Project Path="Inheritance/Inheritance.csproj" />
+  <Project Path="Polymorphism/Polymorphism.csproj" />
 </Solution>
